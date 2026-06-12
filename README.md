@@ -81,4 +81,4 @@ This project is open-source and available for learning and educational purposes.
 
 ## 👨‍💻 Author
 
-Your Name
+Chishti Kashifuddin
