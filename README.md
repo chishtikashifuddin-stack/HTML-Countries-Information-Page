@@ -2,7 +2,7 @@
 
 A simple HTML webpage that showcases information about popular travel destinations around the world.
 
-## 📌 About the Project
+## About the Project
 
 This project is built using basic HTML and CSS styling. It presents information and images of famous destinations:
 
@@ -14,7 +14,7 @@ This project is built using basic HTML and CSS styling. It presents information 
 
 The webpage uses colorful backgrounds, images, headings, and formatted descriptions to create an informative travel-themed website.
 
-## 🚀 Features
+## Features
 
 - Simple and beginner-friendly HTML project
 - Attractive background colors
@@ -22,12 +22,12 @@ The webpage uses colorful backgrounds, images, headings, and formatted descripti
 - Country/City descriptions
 - Easy to customize and extend
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - Inline CSS
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Countries-Information/
@@ -36,7 +36,7 @@ Countries-Information/
 └── README.md
 ```
 
-## 📸 Destinations Included
+## Destinations Included
 
 ### London
 Capital city of England and the United Kingdom.
@@ -53,7 +53,7 @@ Historic country known as the cradle of Western civilization.
 ### Spain
 European country known for rich culture, architecture, and tourism.
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository:
 
@@ -65,7 +65,7 @@ git clone https://github.com/your-username/countries-information.git
 
 3. Double-click `index.html` or open it in any web browser.
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 This project helps beginners learn:
 
@@ -75,10 +75,10 @@ This project helps beginners learn:
 - Background colors
 - Basic webpage design
 
-## 📜 License
+## License
 
 This project is open-source and available for learning and educational purposes.
 
-## 👨‍💻 Author
+## Author
 
 Chishti Kashifuddin
